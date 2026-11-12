@@ -17,6 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/rishi925-eng"><img src="https://img.shields.io/badge/GitHub-rishi925--eng-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://leetcode.com/u/rishi925/"><img src="https://img.shields.io/badge/LeetCode-rishi925-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:rishidiwakar925@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -96,8 +97,8 @@
         <li>Redis caching + Socket.IO for real-time balance sync</li>
       </ul>
       <p><code>React</code> <code>Redux Toolkit</code> <code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>SQLite</code> <code>Redis</code> <code>Socket.IO</code> <code>JWT</code></p>
-      <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://nextpay-fev7.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=render&logoColor=white" /></a>
+      <a href="https://github.com/rishi925-eng/NextPay"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 CodeSphere</h3>
@@ -109,8 +110,8 @@
         <li>JWT auth & REST APIs; <b>API response time optimized by 30%</b></li>
       </ul>
       <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Socket.IO</code> <code>MongoDB</code> <code>WebRTC</code> <code>Docker</code></p>
-      <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://codesphere-frontend-swva.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=render&logoColor=white" /></a>
+      <a href="https://github.com/rishi925-eng?tab=repositories"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
 </table>
@@ -145,10 +146,21 @@
 
 ---
 
+## 🧮 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/rishi925/">
+    <img src="https://leetcard.jacoblin.cool/rishi925?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/rishi925-eng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://leetcode.com/u/rishi925/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:rishidiwakar925@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
