@@ -1,104 +1,157 @@
-<h1 align="left">👋 Hello World, I'm Rishi!</h1><p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rishi925-eng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p><p align="left">
-  <b>Full-Stack Developer | Backend Engineering | Real-Time Applications</b><br/>
-  B.Tech Information Technology · MMMUT, Gorakhpur · 2024–2028
-</p>🚀 About Me
-I'm an undergraduate Information Technology student and Full-Stack Developer interested in building reliable, scalable, and user-focused software.
-- 💻 I build end-to-end web applications using React, TypeScript, Node.js, and modern databases.
-- ⚙️ I enjoy backend engineering: REST APIs, authentication, database design, caching, and real-time communication.
-- 🧩 I've worked on real-time payment workflows and collaborative editing systems.
-- 🧪 Previously a Summer Research Intern at IIIT Allahabad, where I worked on an AI-powered 3D heart reconstruction pipeline.
-- 🧠 Strengthening my foundations in DSA, OOP, OS, DBMS, Computer Networks, and System Design.
-- 🤝 Web Development Lead at FLUX, MMMUT · Campus Ambassador at Techfest, IIT Bombay.
-📍 Kanpur, Uttar Pradesh, India
-💼 Experience
-Summer Research Intern · IIIT Allahabad
-May 2026 – June 2026
-- Developed an AI-powered 3D heart reconstruction pipeline using InstantMesh and medical images.
-- Processed, optimized, and validated 40+ GLB meshes and 30+ medical images.
-- Automated mesh-processing and 3D asset workflows using Python.
-🧰 Technical Skills
-The categories below show the technologies I've worked with and the areas I use them in.
-Category	Technologies
-Programming Languages	Java · C · C++ · Python · JavaScript · TypeScript · SQL
-Frontend Development	React.js · Next.js · Redux Toolkit · HTML5 · CSS3 · Tailwind CSS
-Backend Development	Node.js · Express.js · RESTful APIs · Socket.IO · WebSockets · WebRTC
-Databases & ORM	MongoDB · PostgreSQL · MySQL · SQLite · Redis · Prisma ORM
-Authentication & Security	JWT Authentication · Authentication & Authorization · Transaction PIN flows
-DevOps & Developer Tools	Git · GitHub · Docker · Postman · CI/CD · Vercel · Render
-Backend & System Concepts	API Design · CRDT · Real-Time Systems · Caching · Rate Limiting · Idempotent APIs · System Design
-Computer Science Fundamentals	Data Structures & Algorithms · OOP · Operating Systems · DBMS · Computer Networks
+<!-- ================= HEADER BANNER ================= -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World%2C%20I'm%20Rishi!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineering%20%7C%20Real-Time%20Apps&descSize=16&descAlignY=58" width="100%" />
+</h1>
 
-
-Technology badges
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+%26+Real-Time+Systems+%E2%9A%99%EF%B8%8F;React+%7C+TypeScript+%7C+Node.js+%F0%9F%9A%80;Hackathon+Finalist+%40+IIT+Bombay+Techfest+%F0%9F%8F%86" alt="Typing SVG" />
+  </a>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishi925-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech-IT%20%40%20MMMUT-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Kanpur%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+
+<p align="center">
+  <a href="https://github.com/rishi925-eng"><img src="https://img.shields.io/badge/GitHub-rishi925--eng-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:rishidiwakar925@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-</p>🌟 Featured Projects
-1. 💳 NextPay — Real-Time Digital Wallet & Payment Platform
-A digital wallet platform designed around secure payment workflows, real-time updates, and useful everyday money-management features.
 
-Key Engineering Work
-- Built wallet transfers, split bills, scheduled payments, merchant webhooks, and PDF receipt generation.
-- Added transaction PIN verification, rate limiting, and fraud-detection checks.
-- Designed idempotent APIs to help prevent duplicate transaction processing.
-- Used Redis caching and Socket.IO for real-time balance synchronization.
-Tech Used: React · Redux Toolkit · Node.js · Express.js · Prisma ORM · SQLite · Redis · Socket.IO · JWT
+---
 
-🔗 Live Demo · Source Code
-2. 🧩 CodeSphere — Collaborative Code Editor & Interview Platform
-A real-time coding environment where multiple users can collaborate, execute code, and communicate in shared rooms.
+## 🚀 About Me
 
-Key Engineering Work
-- Implemented collaborative editing with a custom CRDT using Lamport timestamps.
-- Built Docker-based sandboxing for multi-language code execution.
-- Integrated WebRTC audio/video and Socket.IO room communication.
-- Added JWT authentication and REST APIs; optimized API response time by 30%.
-Tech Used: React · TypeScript · Node.js · Express.js · Socket.IO · MongoDB · WebRTC · Docker
+- 🌱 Undergraduate **B.Tech IT** student at **MMMUT, Gorakhpur** (2024–2028)
+- 👨‍💻 I love building **reliable, scalable, user-focused** software, from REST APIs to real-time collaborative systems
+- 💡 Interests: **Backend Engineering · Real-Time Systems · System Design**
+- 🧠 Strengthening **DSA, OOP, OS, DBMS, CN & System Design**
+- 🤝 **Web Development Lead** @ FLUX, MMMUT · **Campus Ambassador** @ Techfest, IIT Bombay
+- 📍 Kanpur, Uttar Pradesh, India
 
-🔗 Live Demo · Source Code
-🏆 Achievements
-- 🏅 National Hackathon Finalist — IIT Bombay Techfest: Built CitySamadhan, a blockchain-based governance platform with voice access and offline-first functionality.
-- 🥇 Winner — MPIT Cybersecurity Hackathon.
-- 🥇 1st Position — Arunoday 2025.
-- 🏅 4th Rank — AlgOlympics 2024, among 200+ participants.
-🤝 Leadership & Community
-- Web Development Lead — FLUX, MMMUT: Contribute to student-led web initiatives and coordinate development work.
-- Campus Ambassador — Techfest, IIT Bombay: Supported student outreach and represented the event community.
-📊 GitHub Snapshot
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishi925-eng&show_icons=true&theme=default&hide_border=true" alt="Rishi's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi925-eng&layout=compact&theme=default&hide_border=true" alt="Most used languages"/>
-</p>📫 Connect With Me
-- Email: rishidiwakar925@gmail.com
-- GitHub: github.com/rishi925-eng
-<p align="center"><i>Build with purpose. Learn continuously. Improve every day.</i></p>
+---
+
+## 💼 My Experience
+
+<table>
+  <tr>
+    <td width="30%"><b>🧪 Summer Research Intern</b><br/>IIIT Allahabad<br/><sub>May 2026 – Jun 2026</sub></td>
+    <td>
+      • Built an <b>AI-powered 3D heart reconstruction pipeline</b> using InstantMesh and medical images<br/>
+      • Processed, optimized & validated <b>40+ GLB meshes</b> and <b>30+ medical images</b><br/>
+      • Automated mesh-processing and 3D asset workflows using <b>Python</b>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web Development Lead</b><br/>FLUX, MMMUT</td>
+    <td>Contribute to student-led web initiatives and coordinate development work</td>
+  </tr>
+  <tr>
+    <td><b>🎪 Campus Ambassador</b><br/>Techfest, IIT Bombay</td>
+    <td>Supported student outreach and represented the event community</td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,postgres&perline=10" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind&perline=10" />
+
+**Backend & Real-Time**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,webrtc&perline=10" />
+
+**Databases & ORM**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,prisma&perline=10" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel&perline=10" />
+
+**Concepts:** `API Design` · `CRDT` · `Real-Time Systems` · `Caching` · `Rate Limiting` · `Idempotent APIs` · `JWT Auth` · `System Design`
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 NextPay</h3>
+      <p><i>Real-Time Digital Wallet & Payment Platform</i></p>
+      <ul>
+        <li>Wallet transfers, split bills, scheduled payments, merchant webhooks, PDF receipts</li>
+        <li>Transaction PIN verification, rate limiting & fraud-detection checks</li>
+        <li>Idempotent APIs to prevent duplicate transactions</li>
+        <li>Redis caching + Socket.IO for real-time balance sync</li>
+      </ul>
+      <p><code>React</code> <code>Redux Toolkit</code> <code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>SQLite</code> <code>Redis</code> <code>Socket.IO</code> <code>JWT</code></p>
+      <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 CodeSphere</h3>
+      <p><i>Collaborative Code Editor & Interview Platform</i></p>
+      <ul>
+        <li>Collaborative editing with a custom <b>CRDT</b> using Lamport timestamps</li>
+        <li>Docker-based sandboxing for multi-language code execution</li>
+        <li>WebRTC audio/video + Socket.IO room communication</li>
+        <li>JWT auth & REST APIs; <b>API response time optimized by 30%</b></li>
+      </ul>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Socket.IO</code> <code>MongoDB</code> <code>WebRTC</code> <code>Docker</code></p>
+      <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+| 🏅 | Achievement |
+|---|---|
+| 🏅 | **National Hackathon Finalist**, IIT Bombay Techfest (CitySamadhan: blockchain governance platform with voice access & offline-first) |
+| 🥇 | **Winner**, MPIT Cybersecurity Hackathon |
+| 🥇 | **1st Position**, Arunoday 2025 |
+| 🏅 | **4th Rank**, AlgOlympics 2024 (200+ participants) |
+
+---
+
+## 📈 GitHub Snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishi925-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi925-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi925-eng&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi925-eng&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/rishi925-eng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:rishidiwakar925@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"Build with purpose. Learn continuously. Improve every day."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
